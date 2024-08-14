@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning how to code
 - 😄 Pronouns: He/Him
-- Im from Denmark
+- 🤯 Im from Denmark
 - ⚡ Fun fact: My favorite animal is a otter :D
 
 <!---

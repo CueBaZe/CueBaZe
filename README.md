@@ -13,7 +13,7 @@ I am a Data Technician student with a deep passion for software development, sys
 * **Database:** SQL (MySql)
 
 **Data & Infrastructure**
-* **Tools:** Docker, Git/GitHub, Expo
+* **Tools:** Docker, Git/GitHub, Expo, Postman
 * **Concepts:** Networking, API Development, Database Design
 
 ---
